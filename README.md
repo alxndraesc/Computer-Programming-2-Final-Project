@@ -10,14 +10,22 @@ Restaurant Management System basing on the UML Class Diagram and since the class
 
 Through this classes, we also imported java utilitiy package which are the *java.util.Scanner* and *java.util.ArrayList* so that the user can make input at the console.
 
-*For Final Project in Computer Programming 2*
+### *For Final Project in Computer Programming 2*
 
-*Group Members:
-Aguirre, Jackylyn
-Ayapana, Arnold
-Castidades, Rochelle
-Dcotor, Samantha Jane
-Escurel, Alessandra Micaela
-Jarilla, Mary Joy
-Leona, Rene
-Oronan, April Joy
+### *Group Members:*
+
+*Aguirre, Jackylyn*
+
+*Ayapana, Arnold*
+
+*Castidades, Rochelle*
+
+*Dcotor, Samantha Jane*
+
+*Escurel, Alessandra Micaela*
+
+*Jarilla, Mary Joy*
+
+*Leona, Rene*
+
+*Oronan, April Joy*
